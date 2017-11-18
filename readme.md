@@ -1,5 +1,14 @@
 # khinsider.py
 
+Installation:
+Telecharger python et installer le 
+Ouvrez un terminal de commande et tapez pip install beautifulsoup4 et pip install requests
+
+Utilisation:
+Depuis un terminal acceder au fichier qui contient le script avec cd 'chemin-de-destination' et apres faite khinsider.py nom-du-jeux (par exemple wipeout-pure)
+
+Readme d'origine:
+
 `khinsider.py` is a [Python](https://www.python.org/) interface for getting [khinsider](http://downloads.khinsider.com/) soundtracks. It makes khinsider mass downloads a breeze. It's easy to use - check it!
 
 From command line:
